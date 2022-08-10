@@ -5,7 +5,7 @@
 <h4>Dataset: https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset</h4>
 
 
-<h3>Model: https://dashboard.heroku.com/apps/bookrecommendersystem0/deploy/github</h3>
+<h3>Model: https://bookrecommendersystem0.herokuapp.com/</h3>
 
 
 
